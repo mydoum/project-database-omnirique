@@ -1,0 +1,40 @@
+{
+  "name": "contact",
+  "plural": "contacts",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "lastname": {
+      "type": "string",
+      "required": true
+    },
+    "firstname": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "string"
+    },
+    "phone-number": {
+      "type": "number"
+    },
+    "birthday": {
+      "type": "date"
+    },
+    "alive": {
+      "type": "boolean",
+      "required": true,
+      "default": true
+    },
+    "company-id": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
