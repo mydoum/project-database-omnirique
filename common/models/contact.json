@@ -31,6 +31,17 @@
     },
     "company-id": {
       "type": "number"
+    },
+    "creation-date": {
+      "type": "date",
+      "required": true
+    },
+    "last-contacted": {
+      "type": "date",
+      "required": true
+    },
+    "notes": {
+      "type": "string"
     }
   },
   "validations": [],

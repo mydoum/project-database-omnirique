@@ -1,0 +1,4 @@
+[
+  {"lastname": "Rostoll", "firstname": "Antoine", "email": "devmencia@gmail.com", "notes": "this is a note", "creation-date": "2017-06-14T18:22:30.937Z", "last-contacted": "2017-06-14T18:22:30.937Z"},
+  {"lastname": "Giraldo", "firstname": "Alonso", "email": "a.alonso.giraldo@gmail.com", "notes": "this is a custom note", "creation-date": "2017-06-14T18:22:30.937Z", "last-contacted": "2017-06-14T18:22:30.937Z"}
+]
