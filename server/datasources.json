@@ -4,13 +4,13 @@
     "connector": "memory"
   },
   "mdb": {
-    "host": "XX",
+    "host": "eu-cdbr-azure-west-b.cloudapp.net",
     "port": 3306,
     "url": "",
-    "database": "XX",
-    "password": "XX",
+    "database": "acsm_8bb0f210671a196",
+    "password": "31cb1419",
     "name": "mdb",
-    "user": "XX",
+    "user": "bae1ebf409f646",
     "connector": "mysql"
   }
 }
